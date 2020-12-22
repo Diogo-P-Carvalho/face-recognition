@@ -4,6 +4,6 @@ Face Recognition
 2. Run `npm install`
 3. Run `npm start`
 
-This app recognises faces in a picture, using clarifai api!
-Register or sign in and provide pictures from an url.
+This app recognises faces in a picture, using clarifai api!  
+Register or sign in and provide pictures from an url.  
 Give it a try!!!
