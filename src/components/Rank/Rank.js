@@ -1,11 +1,11 @@
-function Rank() {
+function Rank({name, rank}) {
     return (
         <div>
             <div className='white f3'>
-                {'Diogo, you current rank is...'}
+                {`${name}, your current rank is...`}
             </div>
             <div className='white f1'>
-                {'#5'}
+                {rank}
             </div>
         </div>
     );
