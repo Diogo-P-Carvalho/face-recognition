@@ -60,7 +60,7 @@ Run the server and this project on different localhost ports, and link them to c
 
 1. Clone this repo, and the API
     ```sh
-    git clone https://github.com/Diogo-P-Carvalho/face-recognition-api.git
+    git clone https://github.com/Diogo-P-Carvalho/face-recognition-spa.git
     ```
 2. Get API key from [Clarifai](https://www.clarifai.com)
 3. Install NPM packages
