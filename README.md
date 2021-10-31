@@ -94,7 +94,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Contact
 
-Diogo Carvalho - Portfolio Comming Soon - [Linkedin](www.linkedin.com/in/diogo-carvalho-83a96a14a) - [@diogoOak](https://twitter.com/diogoOak)
+Diogo Carvalho - [Portfolio](https://diogo-p-carvalho.github.io/portfolio/) - [Linkedin](www.linkedin.com/in/diogo-carvalho-83a96a14a) - [@diogoOak](https://twitter.com/diogoOak)
 
 <!-- ACKNOWLEDGMENTS -->
 
